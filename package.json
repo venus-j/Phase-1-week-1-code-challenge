@@ -1,0 +1,15 @@
+{
+  "name": "wk-1-challenge",
+  "version": "1.0.0",
+  "description": "# Project Tittle and Description The tittle is Week-1-code-challenge and it entails the use of javascript to wire down solutions of Toy problems  # Challengess;",
+  "main": "gradeGenerator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
